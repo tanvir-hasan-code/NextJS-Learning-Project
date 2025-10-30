@@ -1,0 +1,15 @@
+.btn-primary{
+	background-color: blue;
+	border:  2px solid green;
+	border-radius: 20px;
+	color: white;
+	padding: 0px 5px 0px 5px;
+}
+
+.btn-primary:hover{
+	background-color: red;
+	border: green;
+	columns: black;
+	padding: 0px 5px 0px 5px;
+	scale: calc(1.1);
+}
