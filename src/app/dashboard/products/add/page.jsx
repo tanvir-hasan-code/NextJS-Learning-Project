@@ -4,7 +4,7 @@ import SingleProductAdd from './components/productAdd'
 export default function ProductAdd() {
   return (
 	<div>
-	  <SingleProductAdd/>
+	  {/* <SingleProductAdd/> */}
 	</div>
   )
 }
